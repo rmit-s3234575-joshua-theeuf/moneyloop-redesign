@@ -10,27 +10,8 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
 //= require jquery_ujs
 //= require jquery3
 //= require popper
 //= require bootstrap-sprockets
-//= require back-to-top
-//= require blog-carousel
-//= require accordion
-//= require calculator
-//= require filter-script
-//= require isotope.pkgd.min
-//= require loan-elgiblity
-//= require menumaker
-//= require modernizr
-//= require npm
-//= require owl.carousel.min
-//= require popup-gallery
-//= require scrolling-nav
-//= require service-carousel
-//= require simple-slider
-//= require slider-carousel
-//= require sticky-header
-
 //= require_tree .
