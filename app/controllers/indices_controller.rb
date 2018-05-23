@@ -1,5 +1,5 @@
 class IndicesController < ApplicationController
   def index
-    @index = indices.all
+    @index = Index.all
   end
 end
